@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estou cursando Ciência da Computação, no período 6/8<br>👯 Estou a procura de uma vaga como Estagiário<br>🌱 Sou estudante de Front-end<br>⚡ Sou apaixonado por vídeo games e corridas de carro
+🔭 Cursando Ciência da Computação, no período 6/8<br>👯 A procura de uma vaga como Estagiário<br>🌱 Sou estudante de Front-end<br>
 
 
 ## 🌐 Redes Sociais:
