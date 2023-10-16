@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Cursando Ciência da Computação, no período 6/8<br>🤝 A procura de uma vaga como Estagiário<br>🌱 Sou estudante de Front-end<br>
 
 
-## 🌐 Socials:
+## 🌐 LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-henrique-bauer/) 
 
 # 💻 Tech Stack:
