@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Cursando Ciência da Computação, no período 6/8<br>🤝 A procura de uma vaga como Estagiário<br>🌱 Sou estudante de Front-end<br>
+🔭 Cursando Ciência da Computação, no período 7/8<br>🤝 A procura de uma vaga como Estagiário<br>🌱 Sou estudante de Front-end<br>
 
 
 ## 🌐 LinkedIn:
