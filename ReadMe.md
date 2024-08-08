@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Cursando Ciência da Computação, no período 7/8<br>🤝 A procura de uma vaga como Estagiário<br>🌱 Sou estudante de Desenvolvimento Web<br>
+🔭 Cursando Ciência da Computação, no período 8/8<br>🤝 A procura de uma vaga como Desenvolvedor Júnior<br>🌱 Sou estudante de Desenvolvimento Web<br>
 
 
 ## 🌐 LinkedIn:
